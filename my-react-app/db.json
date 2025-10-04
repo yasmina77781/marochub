@@ -1,9 +1,0 @@
-{
-  "artworks": [
-    { "id": 1, "title": "Tapis Amazigh", "artist": "Fatima", "likes": 120 },
-    { "id": 2, "title": "Zellige abstrait", "artist": "Youssef", "likes": 85 }
-  ],
-  "users": [
-    { "id": 1, "name": "Yasmine", "role": "admin" }
-  ]
-}
